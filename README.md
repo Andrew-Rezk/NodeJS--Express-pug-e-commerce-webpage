@@ -1,1 +1,1 @@
-# NodeJS--Express-pug-e-commerce-webpage
+This is a mock e-commerce webpage using NodeJS with Express framework and pug engine. This involves making calls to page routes using express in order to create a dynamic webpage which is viewable and updates with static files (css). This project uses the nodemon plugin.
